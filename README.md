@@ -8,15 +8,27 @@
 2) You have to insert the audio file to correct month-file manualy. In your computer go to SleepStudy folder --> Recordings --> Choose your folders month and export there the audio file.
 
 3) If your months folder does not exist, you have to create it. You have to name the folder in a specific way.
+
 January --> Jan
+
 February –-> Feb
+
 March –-> Mar
+
 April --> Apr
+
 May –-> May
+
 June –-> Jun
+
 July –-> Jul
+
 August –-> Aug
+
 September –-> Sep
+
 October –-> Oct
+
 November –-> Nov
+
 December –-> Dec
